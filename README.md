@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rui Wen
+- 🌱 I’m a student at Northwestern University majoring in Computer Science and Statistics. Art History is my fun minor. 
 - 👀 I’m interested in software development, machine learning, and computer vision
-- 🌱 I’m currently learning Computer Systems
 - 📫 You can reach me through my email ruiwen2024@u.northwestern.edu :)
 
 <!---
